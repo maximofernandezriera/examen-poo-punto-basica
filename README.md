@@ -1,1 +1,1 @@
-# soluci-n-examen-poo-punto
+# solución básica
